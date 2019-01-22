@@ -28,7 +28,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.8.2",
     "siteFonts": [],
-    "uniqCompNum": 12,
+    "uniqCompNum": 19,
     "versionPublish": "4.8.2"
   },
   "pages": {
@@ -160,31 +160,6 @@
           ],
           "_name": "menu",
           "_anchor": "menu-3"
-        },
-        {
-          "loadsvg": "@PROJECT_PATH@/assets/images/loading.svg",
-          "_params": {
-            "paddingTop": 0,
-            "paddingBottom": 0,
-            "postToLoad": "10",
-            "facebook": "statmedevac",
-            "twitter": "stat_medevac",
-            "google": "",
-            "youtube": "",
-            "bgColorRadio": true,
-            "bgColor": "#faaf40",
-            "bgImageRadio": false,
-            "bgImage": "@ADDONS_PATH@/social-feed/feed/assets/comments_bg.jpg",
-            "overlay": true,
-            "overlayColor": "#7e9b9f",
-            "overlayOpacity": 0.6
-          },
-          "alias": "social-feed",
-          "_tags": [
-            "Extension"
-          ],
-          "_name": "feed",
-          "_anchor": "feed-7"
         },
         {
           "_params": {
