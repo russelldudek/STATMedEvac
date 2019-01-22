@@ -28,7 +28,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.8.2",
     "siteFonts": [],
-    "uniqCompNum": 34,
+    "uniqCompNum": 36,
     "versionPublish": "4.8.2"
   },
   "pages": {
@@ -195,6 +195,44 @@
           ],
           "_name": "features3",
           "_anchor": "features3-j"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_params": {
+            "showMeta": true,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "title": "PPOWER",
+          "meta": "WholeBlood Trial",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-z"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": "5",
+            "bgColor": "#fff"
+          },
+          "text": "<p>STAT MedEvac participating in “<a href=\"https://www.youtube.com/watch?v=wX02dkdaoH0&amp;feature=youtu.be&amp;sf91235696=1\" target=\"_blank\">PPOWER WholeBlood Trial</a>” an NIH-funded pilot trial by UPMC investigator <a href=\"http://www.surgery.pitt.edu/people/jason-l-sperry-md-mph\" target=\"_blank\">Jason L. Sperry, MD, MPH</a> to assess the feasibility and effectiveness of transfusing whole blood to trauma patients in hemorrhagic shock during the pre-hospital phase of their care.</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-y",
+          "_styles": {
+            "P": {
+              "text-align": "center"
+            }
+          }
         },
         {
           "_styles": {
