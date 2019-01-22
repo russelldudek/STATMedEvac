@@ -484,6 +484,9 @@ h6,
 #menu-3 .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
 }
+#contacts3-8 LI {
+  color: #efefef;
+}
 #social-buttons2-x .mbr-section-title,
 #social-buttons2-x .btn-social {
   color: #232323;
@@ -548,4 +551,7 @@ h6,
 #menu-s .link[aria-expanded="true"],
 #menu-s .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
+}
+#contacts3-t LI {
+  color: #efefef;
 }
