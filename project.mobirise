@@ -131,7 +131,7 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/a7dad81b6bc615dfcb4f50721a5156b7-600x901.jpg",
+              "src": "@PROJECT_PATH@/assets/images/afixedwing-600x600.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
