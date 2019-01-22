@@ -25,7 +25,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.8.2",
     "siteFonts": [],
-    "uniqCompNum": 4,
+    "uniqCompNum": 5,
     "versionPublish": "4.8.2"
   },
   "pages": {
@@ -70,7 +70,7 @@
             "Theme"
           ],
           "_name": "header4",
-          "_anchor": "header4-0"
+          "_anchor": "header4-4"
         },
         {
           "_styles": {
